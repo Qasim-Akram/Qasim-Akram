@@ -1,6 +1,6 @@
-👋 ** Hello, there! I'm Muhammad Qasim Akram, a passionate Software Engineer with a keen interest in the world of AI. Currently, I'm enthusiastically working on various projects that involve harnessing the power of artificial intelligence to create innovative solutions that make a difference. **
+👋  Hello, there! I'm Muhammad Qasim Akram, a passionate Software Engineer with a keen interest in the world of AI. Currently, I'm enthusiastically working on various projects that involve harnessing the power of artificial intelligence to create innovative solutions that make a difference. 
 
-🔭 Present Ventures
+🔭 Present Ventures 
 Embarking on a relentless odyssey of knowledge, I'm ceaselessly enhancing my proficiency in AI, software development, and emerging technologies. My journey navigates the depths of machine learning, deep learning, and data science.
 
 🌱 Perpetual Growth
