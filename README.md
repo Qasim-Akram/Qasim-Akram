@@ -91,15 +91,16 @@ I'm a passionate **Full Stack Web Developer** and **AI/ML Engineer** from Pakist
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qasim-Akram&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qasim-Akram&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qasim-Akram&theme=tokyonight" width="95%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qasim-Akram&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qasim-Akram&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qasim-Akram&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Qasim-Akram&theme=tokyonight" width="32%" />
 </p>
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Qasim-Akram&theme=tokyonight&hide_border=true" width="60%" />
+</p>
 
 ## 🚀 Featured Projects
 
