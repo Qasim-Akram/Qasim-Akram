@@ -107,7 +107,7 @@ I'm a passionate **Full Stack Web Developer** and **AI/ML Engineer** from Pakist
 | Project | Description | Tech |
 |---|---|---|
 | [🔐 Password Generator](https://github.com/Qasim-Akram/PasswordGenerator) | Dual-password generator with symbol toggle & clipboard copy | JS, HTML, CSS |
-| [🛒 E-Commerce Store](https://github.com/Qasim-Akram/Basic-E-Commerce-Store) | Basic e-commerce frontend | HTML, CSS, JS |
+| [🛒 Stock-Price-Prediction](https://github.com/Qasim-Akram/Stock-Price-Prediction) | Stock Price Prediction using olama | HTML, CSS, JS, ExpressJs |
 | [🗄️ SparePartshopDB](https://github.com/Qasim-Akram/SparePartshopDB) | Full SQL DB with schema, triggers & ERD for a local shop | SQL |
 | [💻 C++ Projects](https://github.com/Qasim-Akram/Projects) | Collection of C++ fundamentals and problem-solving | C++ |
 
