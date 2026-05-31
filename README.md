@@ -106,9 +106,9 @@ I'm a passionate **Full Stack Web Developer** and **AI/ML Engineer** from Pakist
 
 | Project | Description | Tech |
 |---|---|---|
+| [⚙️ DevChat ](https://github.com/Qasim-Akram/DevChat) | AI Assistant for dev | React, Nodejs, Ollama 3.7b |
 | [🏪 yourOwn-ecommerce store](https://github.com/Qasim-Akram/yourOwn-Ecommerce-store) | Modern ecommerce store with orders and checkout | React, Nodejs |
 | [🛒 Stock-Price-Prediction](https://github.com/Qasim-Akram/Stock-Price-Prediction) | Stock Price Prediction using olama | HTML, CSS, JS, ExpressJs |
-| [🗄️ SparePartshopDB](https://github.com/Qasim-Akram/SparePartshopDB) | Full SQL DB with schema, triggers & ERD for a local shop | SQL |
 | [💻 C++ Projects](https://github.com/Qasim-Akram/Projects) | Collection of C++ fundamentals and problem-solving | C++ |
 
 ---
