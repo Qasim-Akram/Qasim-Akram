@@ -1,72 +1,79 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Qasim+Akram;Full+Stack+Web+Developer;React+%26+Frontend+Enthusiast;ML+%26+AI+Engineer" alt="Typing SVG" />
-</h1>
+<div align="center">
 
+```
+██████╗  █████╗ ███████╗██╗███╗   ███╗
+██╔═══██╗██╔══██╗██╔════╝██║████╗ ████║
+██║   ██║███████║███████╗██║██╔████╔██║
+██║▄▄ ██║██╔══██║╚════██║██║██║╚██╔╝██║
+╚██████╔╝██║  ██║███████║██║██║ ╚═╝ ██║
+ ╚══▀▀═╝ ╚═╝  ╚═╝╚══════╝╚═╝╚═╝     ╚═╝
+```
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=+%24+whoami+--+Muhammad+Qasim+Akram;+%24+cat+skills.txt+--+Full+Stack+%7C+AI%2FML;+%24+ls+projects%2F+--+ChatRoom+%7C+EyeSpy+%7C+DevChat;+%24+status+--+Building+real+things+%F0%9F%9F%A2" alt="Typing SVG" />
 
----
-
-## 🧑‍💻 About Me
-
-I'm a passionate **Full Stack Web Developer** and **AI/ML Engineer** from Pakistan, building everything from sleek React interfaces to intelligent machine learning systems. I love turning complex problems into elegant, scalable solutions.
-
-- 🔭 Currently leveling up in **React**, **Full Stack Development**, and **AI Engineering**
-- 🤖 Exploring **Machine Learning**, **Deep Learning**, and **LLM-powered applications**
-- 🌱 Always learning — always building
-- 💬 Ask me about **React**, **Web Dev**, **AI/ML**, or **Freelancing**
-- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/qasimakram)**
-- ⚡ Fun fact: I believe great code is a form of art
+</div>
 
 ---
 
-## 🌐 Connect With Me
+```bash
+$ cat about.txt
+```
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/qasimakram" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/m_qasimakram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://x.com/@Qasim_Akram46" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@qasimakram" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://github.com/Qasim-Akram" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+```
+Name     : Muhammad Qasim Akram
+Role     : Full Stack Developer + AI/ML Engineer
+Location : Pakistan
+Status   : Building — always
+Focus    : Real-time systems, computer vision, LLM-powered apps
+Contact  : [LinkedIn](linkedin.com/in/qasimakram)
+Site     :[Portfolio](mqasimakram.netlify.ap) 
+```
 
 ---
 
-## 🛠️ Tech Stack
+```bash
+$ cat tech-stack.sh
+```
 
-### 🎨 Frontend & React
+**🎨 Frontend**
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Databases
+**⚙️ Backend**
 <p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_Channels-092E20?style=for-the-badge&logo=django&logoColor=38d9a9" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Daphne-35495e?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🤖 AI & Machine Learning
+**🗄️ Databases & Messaging**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+**🤖 AI & Machine Learning**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -74,21 +81,85 @@ I'm a passionate **Full Stack Web Developer** and **AI/ML Engineer** from Pakist
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-### 🧰 Tools & Platforms
+**🧰 Tools & DevOps**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+```bash
+$ ls -la projects/
+```
+
+### 💬 [ChatRoom](https://github.com/Qasim-Akram/ChatRoom) — Real-Time Chat System
+
+```
+> Real-time messaging with WebSockets
+> JWT authentication (access + refresh token flow)
+> Emoji reactions broadcast live via Django Channels
+> Redis pub/sub for multi-connection message delivery
+> Notifications for every room member on new message
+> REST API + WebSocket API running side by side
+> 5 database models: Users, Rooms, Messages, Reactions, Notifications
+```
+
+`Django` `Django Channels` `Django REST Framework` `Redis` `React` `PostgreSQL` `JWT` `Daphne` `ASGI`
+
+---
+
+### 👁️ [EyeSpy](https://github.com/Qasim-Akram/EyeSpy) — Blind Assistance System
+
+```
+> Real-time object detection from live camera feed
+> Tells you WHAT it sees, HOW CLOSE, and which DIRECTION
+> YOLOv8 nano — 80 object classes, ~6MB model, runs on a laptop
+> Windows Speech API announces results out loud instantly
+> Built for people who actually need it
+```
+
+`Python` `YOLOv8` `OpenCV` `Windows Speech API` `Computer Vision`
+
+---
+
+### 🤖 [DevChat](https://github.com/Qasim-Akram/DevChat) — Local AI Dev Assistant
+
+```
+> AI assistant that runs fully on-device, no API keys
+> Powered by Ollama — your machine, your data
+> Built for developers, by a developer
+```
+
+`React` `Node.js` `Ollama` `LLM`
+
+---
+
+### 🛒 [yourOwn-ecommerce](https://github.com/Qasim-Akram/yourOwn-Ecommerce-store) — Full Stack Store
+
+```
+> Cart, orders, checkout — the full flow
+> Clean REST API backend
+```
+
+`React` `Node.js` `MongoDB`
+
+---
+
+```bash
+$ cat stats.log
+```
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qasim-Akram&theme=tokyonight" width="95%" />
@@ -102,32 +173,38 @@ I'm a passionate **Full Stack Web Developer** and **AI/ML Engineer** from Pakist
   <img src="https://streak-stats.demolab.com?user=Qasim-Akram&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [⚙️ DevChat ](https://github.com/Qasim-Akram/DevChat) | AI Assistant for dev | React, Nodejs, Ollama 3.7b |
-| [🏪 yourOwn-ecommerce store](https://github.com/Qasim-Akram/yourOwn-Ecommerce-store) | Modern ecommerce store with orders and checkout | React, Nodejs |
-| [🛒 Stock-Price-Prediction](https://github.com/Qasim-Akram/Stock-Price-Prediction) | Stock Price Prediction using olama | HTML, CSS, JS, ExpressJs |
-| [💻 C++ Projects](https://github.com/Qasim-Akram/Projects) | Collection of C++ fundamentals and problem-solving | C++ |
-
 ---
 
-## 🧠 What I'm Working On
+```bash
+$ cat current-focus.txt
+```
 
-```text
-🌐  Full Stack Web Apps     ████████████░░░░   Building
-⚛️  React & Next.js         ████████████░░░░   Leveling Up
-🤖  ML & AI Engineering     █████████░░░░░░░   Exploring
-🦾  LLMs & Prompt Eng.      ████████░░░░░░░░   Learning
+```
+[===========----] Full Stack (Django + React)   → Shipping
+[===========----] React & Next.js               → Leveling Up
+[=========------] Computer Vision               → Active
+[========-------] LLMs & AI Pipelines           → Exploring
 ```
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+```bash
+$ cat connect.sh
+```
 
-<p align="center">
-  <b>Let's build something amazing together. 🚀</b>
-</p>
+```bash
+echo "LinkedIn  → https://linkedin.com/in/qasimakram"
+echo "GitHub    → https://github.com/Qasim-Akram"
+echo "X         → https://x.com/@Qasim_Akram46"
+echo "Medium    → https://medium.com/@qasimakram"
+echo "Portfolio → https://mqasimakram.netlify.app"
+```
+
+<div align="center">
+
+```
+> open to work. open to collabs. always building.
+> $ _
+```
+
+</div>
