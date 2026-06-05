@@ -25,8 +25,8 @@ Role     : Full Stack Developer + AI/ML Engineer
 Location : Pakistan
 Status   : Building — always
 Focus    : Real-time systems, computer vision, LLM-powered apps
-Contact  : [LinkedIn](linkedin.com/in/qasimakram)
-Site     :[Portfolio](mqasimakram.netlify.ap) 
+Contact  : linkedin.com/in/qasimakram
+Site     : mqasimakram.netlify.ap) 
 ```
 
 ---
