@@ -18,16 +18,15 @@
 ```bash
 $ cat about.txt
 ```
-
-```
+<pre>
 Name     : Muhammad Qasim Akram
 Role     : Full Stack Developer + AI/ML Engineer
 Location : Pakistan
 Status   : Building — always
 Focus    : Real-time systems, computer vision, LLM-powered apps
-Contact  : linkedin.com/in/qasimakram
-Site     : mqasimakram.netlify.ap) 
-```
+Contact  : <a href="https://linkedin.com/in/qasimakram">linkedin.com/in/qasimakram</a>
+Site     : <a href="https://mqasimakram.netlify.app">mqasimakram.netlify.app</a>
+</pre>
 
 ---
 
@@ -180,7 +179,7 @@ $ cat current-focus.txt
 ```
 
 ```
-[===========----] Full Stack (Django + React)   → Shipping
+[===========----] Full Stack (Nodejs + Django + React)   → Shipping
 [===========----] React & Next.js               → Leveling Up
 [=========------] Computer Vision               → Active
 [========-------] LLMs & AI Pipelines           → Exploring
@@ -192,13 +191,13 @@ $ cat current-focus.txt
 $ cat connect.sh
 ```
 
-```bash
-echo "LinkedIn  → https://linkedin.com/in/qasimakram"
-echo "GitHub    → https://github.com/Qasim-Akram"
-echo "X         → https://x.com/@Qasim_Akram46"
-echo "Medium    → https://medium.com/@qasimakram"
-echo "Portfolio → https://mqasimakram.netlify.app"
-```
+<pre>
+LinkedIn  → <a href="https://linkedin.com/in/qasimakram">https://linkedin.com/in/qasimakram</a>
+GitHub    → <a href="https://github.com/Qasim-Akram">https://github.com/Qasim-Akram</a>
+X         → <a href="https://x.com/@Qasim_Akram46">https://x.com/@Qasim_Akram46</a>
+Medium    → <a href="https://medium.com/@qasimakram">https://medium.com/@qasimakram</a>
+Portfolio → <a href="https://mqasimakram.netlify.app">https://mqasimakram.netlify.app</a>
+</pre>
 
 <div align="center">
 
