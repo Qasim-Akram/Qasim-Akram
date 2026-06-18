@@ -179,8 +179,8 @@ $ cat current-focus.txt
 ```
 
 ```
-[===========----] Full Stack (Nodejs + Django + React)   → Shipping
-[===========----] React & Next.js               → Leveling Up
+[=============--] Full Stack (Nodejs + Django + React)   → Shipping
+[============---] React & Next.js               → Leveling Up
 [=========------] Computer Vision               → Active
 [========-------] LLMs & AI Pipelines           → Exploring
 ```
