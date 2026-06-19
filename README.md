@@ -25,7 +25,7 @@ Location : Pakistan
 Status   : Building — always
 Focus    : Real-time systems, computer vision, LLM-powered apps
 Contact  : <a href="https://linkedin.com/in/qasimakram">linkedin.com/in/qasimakram</a>
-Site     : <a href="https://mqasimakram.netlify.app">mqasimakram.netlify.app</a>
+Site     : <a href="https://muhammadqasimakram.netlify.app">muhammadqasimakram.netlify.app</a>
 </pre>
 
 ---
@@ -196,7 +196,7 @@ LinkedIn  → <a href="https://linkedin.com/in/qasimakram">https://linkedin.com/
 GitHub    → <a href="https://github.com/Qasim-Akram">https://github.com/Qasim-Akram</a>
 X         → <a href="https://x.com/@Qasim_Akram46">https://x.com/@Qasim_Akram46</a>
 Medium    → <a href="https://medium.com/@qasimakram">https://medium.com/@qasimakram</a>
-Portfolio → <a href="https://mqasimakram.netlify.app">https://mqasimakram.netlify.app</a>
+Portfolio → <a href="https://muhammadqasimakram.netlify.app">https://muhammadqasimakram.netlify.app</a>
 </pre>
 
 <div align="center">
